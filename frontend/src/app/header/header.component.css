@@ -1,0 +1,24 @@
+.header-of-page {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    z-index: 1;
+}
+
+.not-logged-title {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-right: 5px;
+
+    text-align: right;
+}
+
+.router-link-login {
+    position: relative;
+    display: flex;
+    padding-right: 5px;
+}
